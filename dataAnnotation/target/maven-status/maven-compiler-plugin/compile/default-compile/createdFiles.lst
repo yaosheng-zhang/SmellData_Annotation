@@ -1,0 +1,13 @@
+com\zhangyaos\dataannotation\service\impl\DatasetsServiceImpl.class
+com\zhangyaos\dataannotation\dao\ProjectDao.class
+com\zhangyaos\dataannotation\controller\DatasetsController.class
+com\zhangyaos\dataannotation\service\impl\ProjectServiceImpl.class
+com\zhangyaos\dataannotation\DataAnnotationApplication.class
+com\zhangyaos\dataannotation\config\MybatisPlusConfig.class
+com\zhangyaos\dataannotation\entity\Project.class
+com\zhangyaos\dataannotation\service\ProjectService.class
+com\zhangyaos\dataannotation\config\Swagger2Config.class
+com\zhangyaos\dataannotation\controller\ProjectController.class
+com\zhangyaos\dataannotation\service\DatasetsService.class
+com\zhangyaos\dataannotation\dao\DatasetsDao.class
+com\zhangyaos\dataannotation\entity\Datasets.class

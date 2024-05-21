@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestCurrentParamGroup">
+    <option name="className" value="com.zhangyaos.dataannotation.controller.DatasetsController" />
+    <option name="filePath" value="" />
+    <option name="method" value="queryByCondition" />
+    <option name="methodDescription" value="通过keyword进行模糊查询" />
+    <option name="module" value="dataAnnotation" />
+    <option name="originUrl" value="/datasets/search" />
+    <option name="requestParamMap">
+      <map>
+        <entry key="keyword">
+          <value>
+            <Object />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="returnDocument" value="{&quot;code&quot;:&quot;No comment,Type =Number&quot;,&quot;data&quot;:{},&quot;msg&quot;:&quot;No comment,Type =String&quot;}" />
+    <option name="url" value="/datasets/search" />
+  </component>
+</project>

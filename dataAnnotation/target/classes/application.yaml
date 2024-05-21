@@ -1,0 +1,13 @@
+server:
+  port: 7788
+spring:
+  profiles:
+    active: dev
+  datasource:
+    url: jdbc:mysql://192.168.3.13:13306/datasets
+    username: root
+    password: mustang
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
